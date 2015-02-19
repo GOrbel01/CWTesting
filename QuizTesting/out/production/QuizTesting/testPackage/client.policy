@@ -1,3 +1,0 @@
-grant codeBase "file:/quiztesting/src/testPackage/" {
-    permission java.security.AllPermission;
-};
